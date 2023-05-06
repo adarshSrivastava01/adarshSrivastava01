@@ -6,7 +6,7 @@
 
 ### Welcome to My Github 🙌🏻
 
-- 👨🏻‍💻 Currently working as **`Software Engineer`** for **[`The Swaraj Projekt`](https://swaraj.art/)**.
+- 👨🏻‍💻 Currently working as **`Software Engineer`** for **[`Commenda Technologies`](https://commenda.io/)**.
 - 🌱 Learning **`Go`**.
 - 💡 Sharpening my problem solving and mathematical skills by solving some **[`Leetcode Problems in Python`](https://leetcode.com/adarshSrivastava01/)**.
 - 👯 Looking to collaborate on open source developer tools and libraries in **`Python`**, **`Go`**, and **`Javascript`** (or any other interesting open source projects 🤷🏻‍♀️)
